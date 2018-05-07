@@ -30,4 +30,28 @@ Some companies I've worked for have a separate Employee Expectations document, a
 * Put in your time. Yes, there are lots of ways to be flexible with it (flex time, WFH, comp time, etc) but I will still expect that you are normally available during core hours to be available to your customers and peers. Be conscientious about letting others know when you can't/won't be available and mark your calendar as such. Give as much advance notice to me for planned and unplanned absences.
 * Be professional. Be courteous and mindful in your treatment of others. I don't want to visit HR any more than you do. On the other side of that coin, if you feel someone else has behaved against those rules, come see me immediately. I will make sure your complaint is handled fairly, without retribution and promptly.
 * Be a sound financial steward for the company. Pretend it is your own money the company is spending. Question (politely) the rationale of something if you see the company taking an unreasonable expense or risk. Remember that you may not have all the information involved in the decision.
-* Meet your commitments and deadlines. Let me know as soon as possible when something happens that causes dates to slip.
+* Meet your commitments and deadlines. Let me know as soon as possible when you believe that dates will slip.
+* I do **NOT** expect that we will always agree. In fact, I'd be more worried if we did. Be open to discussion and debate on topics and ideas, even if (or maybe especially if) they're firmly held. Commit bravely. Get on board once a decision is made. Learn from mistakes (yours and others). 
+
+# 1 on 1's
+
+I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing, and how involved I am. Generally though, my agenda is:
+* An opportunity for me to share anything from "upstream" that I think is important for you to know (mgmt carry-down)
+* I want to know if anything is blocking you from getting your job done (see snowplow comment above)
+* Progress on your professional growth goals (and any new goals you want to strive toward)
+
+Some other common topics that are fair game (coming from either of us):
+* Concerns about your performance, compensation, benefits or behavior
+* Concerns about my performance or behavior (I do appreciate feedback)
+* Thoughts about company direction, products/services, and strategy
+* Thoughts on anything that both of us are excited about that is going on recently. These may or may not be work related.
+
+# Personal history
+
+I'm sure more of this will come out as we get to know each other, but here are some biographicals:
+* I'm happily married with two kids (girl and boy). My wife is a pharmacist, and my kids are spoiled monsters who I usually manage to prevent from injuring each other. 
+* I was born in Vienna, Austria, but grew up in the States. I've lived in New York, Florida, Ohio and Colorado. I'm pretty sure I've visited all the US states except Alaska, at least on a drive through. 
+* I've worked for a variety of companies, big and small. Citrix (Test Engineer), 2 different small internet providers (Sysadmin), Hunter Douglas (Systems Engineer), SUN (Technical Instructor and Data Center Architect), eBay (Technical Duty Officer and NOC Manager), Intrado/West Safety Services (Systems Engineer, Supervisor and Manager). I even worked for the Psychic Discovery Network for a very short time, long ago. Ask me about it sometime over a beer.
+* I am a gamer. Board games, PC, Console, RPG.
+* I'm an avid reader. Primarily science fiction, alternative fiction and fantasy, but I'll read just about anything if the topic is good.
+* Fan of: Star Wars, LEGO, Science, Photography, Astronomy, Maps, Books, Technology, Gastronomy, Craft Beer, and good Whiskey. Sometimes, more than one of those at once.
