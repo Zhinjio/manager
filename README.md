@@ -9,7 +9,7 @@ Real simple. I won't lie to you. There may be times when I can't say things beca
 ## Ownership
 I've seen this referred to as DRI (Directly Responsibile Individual), which is apparently an Apple concept. I'm not sure I'm fully on board with it in that context, since I've never worked there and don't know how it manifests. But what it means to me is two things. First, you own up to your mistakes. If something goes sideways, I want to hear about it from you. **First**. It is much easier to explain to a peer manager or higher up "Yes, I'm aware of what happened, here's what we did to fix it, here's what we're doing to prevent it from happening again" than "Gee... uh, not sure... I'll have to get back to you on that".
 
-Second, it means you own your career and growth. Yes, I'm here to help, and make sure any opportunities the company is willing to sponsor are made available to you, but I can't force you to learn, grow or be invested in your development and long term success. **YOU** own that. I will further state that people who aren't invested in growth are a pretty serious turn off to me. I feel most comfortable interacting with people who are just as excited about technology and learning as I am (or more!)
+Second, it means you own your career and growth. Yes, I'm here to help, and make sure any opportunities the company is willing to sponsor are made available to you, but I can't force you to learn, grow or be invested in your development and long term success. **YOU** own that. I will further state that people who aren't invested in growth are a pretty serious turn off to me. I feel most comfortable interacting with people who are just as excited about technology and learning as I am (or more)!
 
 # Roles
 
@@ -19,7 +19,7 @@ I think that being a technical manager, that I bring more to the table than some
 
 # Quirks
 
-* I try to be concise with words. That goes for all forms of communication. That sometimes means that I sometimes mull over my response to questions or problems before presenting my thoughts. Please grant me the time to respond in my own time.
+* I try to be concise with words. That goes for all forms of communication. That means that I sometimes mull over my response to questions or problems before presenting my thoughts. Please grant me the time to respond in my own time.
 * Spelling and grammar matter. If you ask me to review a document or email, you can expect that I'll nitpick about these things. I apologize up front. It is just the way my brain works. There are several things I'm a little obsessive about, and this is one of them. 
 * On the insights scale, I'm blue-green. Briggs-Meyers, INTJ. If those things don't matter to you, don't worry about it. If they do, maybe they give you some clues on how to interact with me. Personally, I find them to be useful guides, but certainly not an immutable contract with other people. Humans are complex, and don't often boil down to letters and numbers very well.
 * Don't use the phrase "But that is the way we've always done it".
