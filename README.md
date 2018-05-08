@@ -55,4 +55,4 @@ I'm sure more of this will come out as we get to know each other, but here are s
 * I've worked for a variety of companies, big and small. Citrix (Test Engineer), 2 different small internet providers (Sysadmin), Hunter Douglas (Systems Engineer), SUN (Technical Instructor and Data Center Architect), eBay (Technical Duty Officer and NOC Manager), Intrado/West Safety Services (Systems Engineer, Supervisor and Manager). I even worked for the Psychic Discovery Network for a very short time, long ago. Ask me about it sometime over a beer.
 * I am a gamer. Board games, PC, Console, RPG.
 * I'm an avid reader. Primarily science fiction, alternative fiction and fantasy, but I'll read just about anything if the topic is good.
-* Fan of: Star Wars, LEGO, Science, Photography, Astronomy, Maps, Books, Technology, Gastronomy, Craft Beer, and good Whiskey. Sometimes, more than one of those at once.
+* Fan of: Star Wars, LEGO, Science, Photography, Astronomy, Maps, Books, Puzzles, Technology, Gastronomy, Craft Beer, and good Whiskey. Sometimes, more than one of those at once.
