@@ -50,7 +50,7 @@ Some other common topics that are fair game (coming from either of us):
 # Personal history
 
 I'm sure more of this will come out as we get to know each other, but here are some biographicals:
-* I'm happily married with two kids (girl and boy). My wife is a pharmacist, and my kids are spoiled monsters who I usually manage to prevent from injuring each other. 
+* I'm happily married with two kids (girl and boy) and our dog, Shadow Moon. My wife is a pharmacist, and my kids are spoiled monsters who I usually manage to prevent from injuring each other. Shadow is a part cattle dog rescue that brings us joy (and sometimes destroys dog toys or paper towel rolls) every day.
 * I was born in Vienna, Austria, but grew up in the States. I've lived in New York, Florida, Ohio and Colorado. I'm pretty sure I've visited all the US states except Alaska, at least on a drive through. 
 * I've worked for a variety of companies, big and small. Citrix (Test Engineer), 2 different small internet providers (Sysadmin), Hunter Douglas (Systems Engineer), SUN (Technical Instructor and Data Center Architect), eBay (Technical Duty Officer and NOC Manager), Intrado/West Safety Services (Systems Engineer, Supervisor and Manager). I even worked for the Psychic Discovery Network for a very short time, long ago. Ask me about it sometime over a beer.
 * I am a gamer. Board games, PC, Console, RPG.
