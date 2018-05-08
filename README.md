@@ -36,7 +36,7 @@ Some companies I've worked for have a separate Employee Expectations document, a
 
 # 1 on 1's
 
-I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing, and how involved I am. Generally though, my agenda is:
+I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing, and how involved I am. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. My agenda (generally) is:
 * An opportunity for me to share anything from "upstream" that I think is important for you to know (mgmt carry-down)
 * I want to know if anything is blocking you from getting your job done (see snowplow comment above)
 * Progress on your professional growth goals (and any new goals you want to strive toward)
