@@ -36,7 +36,7 @@ Some companies I've worked for have a separate Employee Expectations document, a
 
 # 1 on 1's
 
-I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing, and how involved I am. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. My agenda (generally) is:
+I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing, and how involved I am. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. Although I do like to set a particular time every week, these meetings are almost the first to fall if I get over-committed on other things. I will always attempt to reschedule if I can, as opposed to outright cancellation. My agenda (generally) is:
 * An opportunity for me to share anything from "upstream" that I think is important for you to know (mgmt carry-down)
 * I want to know if anything is blocking you from getting your job done (see snowplow comment above)
 * Progress on your professional growth goals (and any new goals you want to strive toward)
@@ -46,6 +46,8 @@ Some other common topics that are fair game (coming from either of us):
 * Concerns about my performance or behavior (I do appreciate feedback)
 * Thoughts about company direction, products/services, and strategy
 * Thoughts on anything that both of us are excited about that is going on recently. These may or may not be work related.
+
+Final thought on these ... if you ever need to talk, but don't think it can wait until the next 1-1, don't hesitate at all to come to me at any time. If you can't find a spot on the calendar, reach out via other means. I don't think anyone has ever told that I am hard to reach. Email, IM and phone should all work. IM is probably where I am most responsive.
 
 # Personal history
 
