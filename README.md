@@ -46,7 +46,7 @@ Some other common topics that are fair game (coming from either of us):
 * Concerns about your performance, compensation, benefits or behavior
 * Concerns about my performance or behavior (I do appreciate feedback)
 * Thoughts about company direction, products/services, and strategy
-* Thoughts on anything that both of us are excited about that is going on recently. These may or may not be work related.
+* Thoughts on anything that either of us are excited about that is going on recently. These may or may not be work related.
 
 Final thought on these ... if you ever need to talk, but don't think it can wait until the next 1-1, don't hesitate at all to come to me at any time. If you can't find a spot on the calendar, reach out via other means. I don't think anyone has ever told that I am hard to reach. Email, IM and phone should all work. IM is probably where I am most responsive.
 
