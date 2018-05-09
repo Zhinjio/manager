@@ -59,3 +59,8 @@ I'm sure more of this will come out as we get to know each other, but here are s
 * I am a gamer. Board games, PC, Console, RPG.
 * I'm an avid reader. Primarily science fiction, alternative fiction and fantasy, but I'll read just about anything if the topic is good.
 * Fan of: Star Wars, LEGO, Science, Photography, Astronomy, Maps, Books, Puzzles, Technology, Gastronomy, Craft Beer, and good Whiskey. Sometimes, more than one of those at once.
+
+# Tips from past (and present) employees!
+
+I thought I would check in with some of the folks I've managed in the past, and see if they were willing to throw in a couple sentences about what that experience was (or is) like for them. Here are some of the responses:
+* Mark isn’t a manager to micro-manage. He expects you to take responsibility for your personal growth and doesn’t care how you get from point A to B in completing your tasks as long as you meet your commitments. However, he will be your biggest support system when going up against your toughest critics. Expect to be challenged but expect to grow. One of the most refreshing aspects of working with Mark is that he is able to analyze organizational and project challenges without drama. No over speculation or over-worrying, but also not trying to sugar coat things. Conversations with Mark are genuine. (SE-5/8/18)
