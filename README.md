@@ -13,9 +13,9 @@ Second, it means you own your career and growth. Yes, I'm here to help, and make
 
 # Roles
 
-I have a very good friend and mentor who summarized being a manager into three things. He said "you have to be an umbrella, snowplow and toolshed". He lives in Minnesota, so it was snowplow instead of bulldozer, but you get the idea. "Get me the tools I need, clear the way for me and keep it from raining on me". I do think there is more to it than that, but those three things are essential, and I endeavor to excel at those things. I will get involved in building strong (sometimes political) relationships around the company, so you don't have to.
+I have a very good friend and mentor who summarized being a manager into three things. He said "you have to be an umbrella, snowplow and toolshed". He lives in Minnesota, so it was snowplow instead of bulldozer, but you get the idea. "Get me the tools I need, clear the way for me and keep it from raining on me". I do think there is more to it than that, but those three things are essential, and I endeavor to excel at those things. I will be building strong (sometimes political) relationships around the company, so you don't have to, or helping facilitate your relationships with others when you do.
 
-I think that being a technical manager, that I bring more to the table than someone who isn't. I can be a technical mentor, especially for someone new to the job, but ultimately, I expect that you'll all eventually (or already) know quite a bit more about the technical aspects of your job than I do. That just goes with the territory. That doesn't mean I don't want you to come to me with technical problems. I can be a sounding board for your thoughts and ideas, and might also be able to steer you to resources that can help you further. The holdover from my own technical contributor roles is that I bring some fairly sharp problem solving skills to the table too, so let me exercise them once in awhile!
+I think that being a technical manager, that I bring more to the table than someone who isn't. I can be a technical mentor, especially for someone new to the job, but ultimately, I expect that you'll all eventually (or already) know quite a bit more about the technical aspects of your job than I do. That just goes with the territory. That doesn't mean I don't want you to come to me with technical problems. I'd rather not just list off a bunch of topics I think I can speak to. Instead I'll just say that I have a diverse background with a variety of technical domains, so don't be shy about using me as a sounding board for your thoughts and ideas, and I might also be able to steer you to resources that can help you further. A holdover from my own technical contributor roles is that I bring some fairly sharp problem solving skills to the table too, so let me exercise them once in awhile!
 
 # Quirks
 
@@ -26,7 +26,7 @@ I think that being a technical manager, that I bring more to the table than some
 
 # Expectations
 
-Some companies I've worked for have a separate Employee Expectations document, and this is the part of orientation where we'll review that. If not, here are some quick guidelines:
+Some companies I've worked for have a separate Employee Expectations document, so here are some quick guidelines:
 * Put in your time. Yes, there are lots of ways to be flexible with it (flex time, WFH, comp time, etc) but I will still expect that you are normally available during core hours to be available to your customers and peers. Be conscientious about letting others know when you can't/won't be available and mark your calendar as such. Give as much advance notice to me for planned and unplanned absences.
 * Be responsive to communication. I'm not saying you have to be staring at your IM screen 24/7. Everyone develops their own cadence for this. I tend to use IM clients (Spark, Slack, Lync, etc) over any others by preference for quick notes/reminders/etc. Keep your calendar up to date.
 * Be professional. Be courteous and mindful in your treatment of others. I don't want to visit HR any more than you do. On the other side of that coin, if you feel someone else has behaved against those rules, come see me immediately. I will make sure your complaint is handled fairly, without retribution and promptly.
@@ -37,7 +37,7 @@ Some companies I've worked for have a separate Employee Expectations document, a
 
 # 1 on 1's
 
-I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing, and how involved I am. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. Although I do like to set a particular time every week, these meetings are almost the first to fall if I get over-committed on other things. I will always attempt to reschedule if I can, as opposed to outright cancellation. My agenda (generally) is:
+I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing and how involved I am in that work. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. Although I do like to set a particular time every week, these meetings are almost the first to fall if I get over-committed on other things. I will always attempt to reschedule if I can, as opposed to outright cancellation. My agenda (generally) is:
 * An opportunity for me to share anything from "upstream" that I think is important for you to know (mgmt carry-down)
 * I want to know if anything is blocking you from getting your job done (see snowplow comment above)
 * Progress on your professional growth goals (and any new goals you want to strive toward)
