@@ -29,7 +29,7 @@
 
 # Expectations
 
-Some companies I've worked for have a separate Employee Expectations document, so here are some quick guidelines:
+> Some companies I've worked for have a separate Employee Expectations document, so here are some quick guidelines:
 * Put in your time. Yes, there are lots of ways to be flexible with it (flex time, WFH, comp time, etc) but I will still expect that you are normally available during core hours to be available to your customers and peers. Be conscientious about letting others know when you can't/won't be available and mark your calendar as such. Give as much advance notice to me for planned and unplanned absences.
 * Be responsive to communication. I'm not saying you have to be staring at your IM screen 24/7. Everyone develops their own cadence for this. I tend to use IM clients (Spark, Slack, Lync, etc) over any others by preference for quick notes/reminders/etc. Keep your calendar up to date.
 * Be professional. Be courteous and mindful in your treatment of others. I don't want to visit HR any more than you do. On the other side of that coin, if you feel someone else has behaved against those rules, come see me immediately. I will make sure your complaint is handled promptly, fairly and without retaliation.
@@ -40,22 +40,22 @@ Some companies I've worked for have a separate Employee Expectations document, s
 
 # 1 on 1's
 
-I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing and how involved I am in that work. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. Although I do like to set a particular time every week, these meetings are almost the first to fall if I get over-committed on other things. I will always attempt to reschedule if I can, as opposed to outright cancellation. My agenda (generally) is:
+> I find them useful. They serve a variety of purposes, depending on the type of work you're currently doing and how involved I am in that work. I like to start with 30 minutes once a week. This can be modified over time if we find that isn't working. Although I do like to set a particular time every week, these meetings are almost the first to fall if I get over-committed on other things. I will always attempt to reschedule if I can, as opposed to outright cancellation. My agenda (generally) is:
 * An opportunity for me to share anything from "upstream" that I think is important for you to know (mgmt carry-down)
 * I want to know if anything is blocking you from getting your job done (see snowplow comment above)
 * Progress on your professional growth goals (and any new goals you want to strive toward)
 
-Some other common topics that are fair game (coming from either of us):
+> Some other common topics that are fair game (coming from either of us):
 * Concerns about your performance, compensation, benefits or behavior
 * Concerns about my performance or behavior (I do appreciate feedback)
 * Thoughts about company direction, products/services, and strategy
 * Thoughts on anything that either of us are excited about that is going on recently. These may or may not be work related.
 
-Final thought on these ... if you ever need to talk, but don't think it can wait until the next 1-1, don't hesitate at all to come to me at any time. If you can't find a spot on the calendar, reach out via other means. I don't think anyone has ever told that I am hard to reach. Email, IM and phone should all work. IM is probably where I am most responsive.
+> Final thought on these ... if you ever need to talk, but don't think it can wait until the next 1-1, don't hesitate at all to come to me at any time. If you can't find a spot on the calendar, reach out via other means. I don't think anyone has ever told that I am hard to reach. Email, IM and phone should all work. IM is probably where I am most responsive.
 
 # Personal history
 
-I'm sure more of this will come out as we get to know each other, but here are some biographicals:
+> I'm sure more of this will come out as we get to know each other, but here are some biographicals:
 * I'm happily married with two kids (girl and boy) and our dog, Shadow Moon. My wife is a pharmacist, and my kids are spoiled monsters who I usually manage to prevent from injuring each other. Shadow is a part cattle dog rescue that brings us joy (and sometimes destroyed dog toys or paper towel rolls) every day.
 * I was born in Vienna, Austria, but grew up in the States. I've lived in New York, Florida, Ohio and Colorado. I'm pretty sure I've visited all the US states except Alaska, at least on a drive through. 
 * I've worked for a variety of companies, big and small. Citrix (Test Engineer), 2 different small internet providers (Sysadmin), Hunter Douglas (Systems Engineer), SUN (Technical Instructor and Data Center Architect), eBay (Technical Duty Officer and NOC Manager), Intrado/West Safety Services (Systems Engineer, Supervisor and Manager). I even worked for the Psychic Discovery Network for a very short time, long ago. Ask me about it sometime over a beer.
@@ -65,6 +65,6 @@ I'm sure more of this will come out as we get to know each other, but here are s
 
 # Tips from past (and present) employees!
 
-I thought I would check in with some of the folks I've managed in the past, and see if they were willing to throw in a couple sentences about what that experience was (or is) like for them. Here are some of the responses:
+> I thought I would check in with some of the folks I've managed in the past, and see if they were willing to throw in a couple sentences about what that experience was (or is) like for them. Here are some of the responses:
 * Mark isn’t a manager to micro-manage. He expects you to take responsibility for your personal growth and doesn’t care how you get from point A to B in completing your tasks as long as you meet your commitments. However, he will be your biggest support system when going up against your toughest critics. Expect to be challenged but expect to grow. One of the most refreshing aspects of working with Mark is that he is able to analyze organizational and project challenges without drama. No over speculation or over-worrying, but also not trying to sugar coat things. Conversations with Mark are genuine. (SE)
 * Mark is a direct and kind manager.  He seeks to discover and work with the uniqueness of the individuals whom he manages.  He has a strong ability to express complex issues simply and clearly in conversation.  Mark does not avoid the difficult situations which a leader must be able to confront and he seeks to be equitable to all who are involved.  He engages in a host of pursuits which are sure to inspire enthusiastic conversation with others over some sure-to-exist common interest. (DM)
