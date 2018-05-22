@@ -9,7 +9,7 @@ Real simple. I won't lie to you. There may be times when I can't say things beca
 ## Ownership
 I've seen this referred to as DRI (Directly Responsibile Individual), which is apparently an Apple concept. I'm not sure I'm fully on board with it in that context, since I've never worked there and don't know how it manifests. But what it means to me is two things. First, you own up to your mistakes. If something goes sideways, I want to hear about it from you. **First**. It is much easier to explain to a peer manager or higher up "Yes, I'm aware of what happened, here's what we did to fix it, here's what we're doing to prevent it from happening again" than "Gee... uh, not sure... I'll have to get back to you on that".
 
-Second, it means you own your career and growth. Yes, I'm here to help, and make sure any opportunities the company is willing to sponsor are made available to you, but I can't force you to learn, grow or be invested in your development and long term success. **YOU** own that. I will further state that people who aren't invested in growth are a pretty serious turn off to me. I feel most comfortable interacting with people who are just as excited about technology and learning as I am (or more)!
+Second, it means you own your career and growth. Yes, I'm here to help, and make sure any opportunities the company is willing to sponsor are made available to you, but I can't force you to learn, grow or be invested in your development and long term success. **YOU** own that. I feel most comfortable interacting with people who are just as excited about technology, learning and their own growth as I am (or more)!
 
 # Roles
 
