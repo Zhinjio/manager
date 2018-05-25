@@ -24,7 +24,7 @@
 
 * I try to be concise with words. That goes for all forms of communication. That means that I sometimes mull over my response to questions or problems before presenting my thoughts. Please grant me the time to respond when I'm ready.
 * Spelling and grammar matter. If you ask me to review a document or email, you can expect that I'll nitpick about these things. I apologize up front. It is just the way my brain works. There are several things I'm a little obsessive about, and this is one of them. 
-* On the Insights scale, I'm blue-green. Briggs-Meyers, INTJ. If those things don't matter to you, don't worry about it. If they do, maybe they give you some clues on how to interact with me. Personally, I find them to be useful guides, but certainly not an immutable contract with other people. Humans are complex, and don't often boil down to letters and numbers very well.
+* On the Insights scale, I'm blue-green. Briggs-Meyers, INTJ. If those things don't mean anything or matter to you, don't worry about it. If they do, maybe they give you some clues on how to interact with me. Personally, I find them to be useful guides, but certainly not an immutable contract with other people. Humans are complex, and don't often boil down to letters and numbers very well.
 * Don't use the phrase "But that is the way we've always done it".
 
 # Expectations
