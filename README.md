@@ -36,7 +36,7 @@
 * Be a sound financial steward for the company. Pretend it is your own money the company is spending. Question (politely) the rationale of something if you see the company taking an unreasonable expense or risk. Remember that you may not have all the information involved in the decision.
 * Be an advocate for your users. Don't ignore the downstream impact of your work, even though you might be making things easier for yourself or your team.
 * Meet (or exceed!) your commitments and deadlines. Let me know as soon as possible when you believe that dates will slip.
-* I do **NOT** expect that we will always agree. In fact, I'd be more worried if we did. Be open to discussion and debate on topics and ideas, even if (or maybe especially if) they're firmly held. Commit bravely. Get on board once a decision is made. Learn from mistakes (yours and others). 
+* I do **NOT** expect that we will always agree. In fact, I'd be more worried if we did. Be open to vigorous discussion and debate on topics and ideas, even if (or maybe especially if) they're firmly held. Commit bravely. Get on board once a decision is made. Learn from mistakes (yours and others). 
 
 # 1 on 1's
 
