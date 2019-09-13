@@ -1,12 +1,12 @@
 # What is it like to report to me?  
 
-> I've seen a variety of posted files recently that looked very similar describing a manager (or team lead's) style of managing, what they consider important, and some facts about them. I do love the idea behind it, but not the presentation. So here's my attempt at my own. Also, I consider this the content of my first face-to-face discussion with you, the new employee, as part of the overall orientation to your new role. This is not intended to replace that conversation. Think of it more as a written or online record of that content for your reference.
+> I've seen a variety of posted files recently that looked very similar describing a manager's (or team lead's) style of managing, what they consider important, and some facts about them. I do love the idea behind it, but not the presentation. So here's my attempt at my own. Also, I consider this the content of my first face-to-face discussion with you, the new employee, as part of the overall orientation to your new role. This is not intended to replace that conversation. Think of it more as a written or online record of that content for your reference.
 
 # Basic values
 
 ## Honesty
 
-> Real simple. I won't lie to you. There may be times when I can't say things because of legal restrictions or requests for confidentiality. But if you ask me a direct question, I will give you a direct answer. I expect the same of you. Which leads to the next value...
+> Really simple: I won't lie to you. There may be times when I can't say things because of legal restrictions or requests for confidentiality. But if you ask me a direct question, I will give you a direct answer. I expect the same of you. Which leads to the next value...
 
 ## Ownership
 
