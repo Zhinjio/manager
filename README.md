@@ -71,4 +71,4 @@ https://www.linkedin.com/in/mark-breitenbach/
 
 ## Tips from past (and present) employees!
 
-I used to have a section here with direct feedback from people who have worked from me in the past, but I realized that it was essentially just duplicating text that was now present in people's recommendations for me on LinkedIn. As such, I've included that link at the top of this document, so please go there to hear what some of the people I've worked with have to say about me!
+> I used to have a section here with direct feedback from people who have worked from me in the past, but I realized that it was essentially just duplicating text that was now present in people's recommendations for me on LinkedIn. As such, I've included that link at the top of this document, so please go there to hear what some of the people I've worked with have to say about me!
