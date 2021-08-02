@@ -3,9 +3,9 @@
 https://www.linkedin.com/in/mark-breitenbach/
 
 
-## What is it like to report to me?  
+## What is this document about?
 
-> I've seen a variety of posted files recently that looked very similar describing a manager's (or team lead's) style of managing, what they consider important, and some facts about them. I do love the idea behind it, but not the presentation. So here's my attempt at my own. Also, I consider this the content of my first face-to-face discussion with you, the new employee, as part of the overall orientation to your new role. This is not intended to replace that conversation. Think of it more as a written or online record of that content for your reference.  
+> I've held a variety of roles over the years that have included either directly managing someone, or, like right now, being more of a "coaching manager/mentor" (without the pesky personnel responsibilities). I've found it useful to give people who I'm new to coaching a quick introduction to me. I've seen a variety of posted files that looked very similar describing a manager's (or team lead's) style of managing, what they consider important, and some facts about them. I do love the idea behind it, but not the presentation. So here's my attempt at my own. Also, I consider this the content of my first face-to-face discussion with you as part of the overall orientation to our relationship. This is not intended to replace that conversation. Think of it more as a written or online record of that content for your reference. Finally, some of the thoughts below were written specifically for people that I *am* going to have a formal manager-type relationshop with, so of course if that isn't the case with you, you can ignore those bits.
 
 ## Basic values
 
@@ -30,7 +30,7 @@ https://www.linkedin.com/in/mark-breitenbach/
 * I try to be concise with words. That goes for all forms of communication. That means that I sometimes mull over my response to questions or problems before presenting my thoughts. Please grant me the time to respond when I'm ready.
 * Spelling and grammar matter. If you ask me to review a document or email, you can expect that I'll nitpick about these things. I apologize up front. It is just the way my brain works. There are several things I'm a little obsessive about, and this is one of them. 
 * On the Insights scale, I'm blue-green. Briggs-Meyers, INTJ. If those things don't mean anything or matter to you, don't worry about it. If they do, maybe they give you some clues on how to interact with me. Personally, I find them to be useful guides, but certainly not an immutable contract with other people. Humans are complex, and don't often boil down to letters and numbers very well.
-* Don't use the phrase "But that is the way we've always done it".
+* Don't use the phrase "But that is the way we've always done it". Sometimes we need to challenge even the most tightly held practices to move forward.
 
 ## Expectations
 
@@ -64,7 +64,7 @@ https://www.linkedin.com/in/mark-breitenbach/
 * I'm happily married with two kids (girl and boy) and our two dogs, Shadow Moon and Night Skye. My wife is a pharmacist, and my kids are spoiled monsters who I usually manage to prevent from injuring each other. Shadow is a part cattle dog rescue that brings us joy (and sometimes destroyed dog toys or paper towel rolls) every day. Skye is new to the family, and we're still getting used to him and him to us. He's adorable, though, and just needs to learn which things are good chews and which aren't. 
 * I was born in Vienna, Austria, but grew up in the States. I've lived in New York, Florida, Ohio and Colorado. I'm pretty sure I've visited all the US states except Alaska, at least on a drive through.
 * I graduated many years ago from Clarkson University with a dual major in Math and Comp.Sci. Perhaps ironically, I've never had employment as a developer.
-* I've worked for a variety of companies, big and small. Citrix (Test Engineer), 2 different small internet providers (Sysadmin), Hunter Douglas (Systems Engineer), SUN (Technical Instructor and Data Center Architect), eBay (Technical Duty Officer and NOC Manager), Intrado/West Safety Services (Systems Engineer, Supervisor, Manager and Director). I even worked for the Psychic Discovery Network for a very short time, long ago. Ask me about it sometime over a beer.
+* I've worked for a variety of companies, big and small. Citrix (Test Engineer), 2 different small internet providers (Sysadmin), Hunter Douglas (Systems Engineer), SUN (Technical Instructor and Data Center Architect), eBay (Technical Duty Officer and NOC Manager), Intrado/West Safety Services (Systems Engineer, Supervisor, Manager and Director) and now TSPi(Scrum Master). I even worked for the Psychic Discovery Network for a very short time, long ago. Ask me about it sometime over a beer.
 * I am a gamer. Board games, PC, Console, RPG.
 * I'm an avid reader. Primarily science fiction, alternative fiction and fantasy, but I'll read just about anything if the topic is good.
 * Fan of: Star Wars, LEGO, Science, Photography, Astronomy, Maps, Books, Puzzles, Technology, Gastronomy, Craft Beer, and good Whiskey. Sometimes, more than one of those at once.
